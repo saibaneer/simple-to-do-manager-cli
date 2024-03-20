@@ -24,33 +24,33 @@ cargo run
 
 ## Adding a Task
 To add a new task to your to-do list, use the add subcommand:
-cargo run -- add "Your task here"
+`cargo run -- add "Your task here"`
 
 
 ## Listing All Tasks
 To list all tasks in your to-do list, use the list subcommand:
-cargo run -- list
+`cargo run -- list`
 
 
 ## Getting a specific Task
 To get a specific task by its index, use the get subcommand:
-cargo run -- get <index>
+`cargo run -- get <index>`
 Replace <index> with the numeric index of the task you want to view.
 
 ## Removing a Task
 To remove a task from your to-do list by its index, use the remove subcommand:
-cargo run -- remove <index>
+`cargo run -- remove <index>`
 Replace <index> with the numeric index of the task you want to remove.
 
 
 ## Marking a Task as Done or Not Done
 To change the status of a task, use the mark_status subcommand:
-cargo run -- mark_status <index> <status>
+`cargo run -- mark_status <index> <status>`
 Replace <index> with the task's index and <status> with true to mark as done, or false to mark as not done.
 
 ## Editing a Task
 To edit the name of a task, use the edit subcommand:
-cargo run -- edit <index> "New task name"
+`cargo run -- edit <index> "New task name"`
 Replace <index> with the task's index and "New task name" with the new name for the task.
 
 ## Author

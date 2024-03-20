@@ -2,6 +2,9 @@
 name = "todo-list"
 version = "0.1.0"
 edition = "2021"
+authors = ["Gbenga Ajiboye <gbenga.aj66@gmail.com"]
+license = "MIT"
+repository = "https://github.com/saibaneer/simple-to-do-manager-cli"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
