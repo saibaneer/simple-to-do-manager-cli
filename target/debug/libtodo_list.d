@@ -1,1 +1,0 @@
-/Users/gb3nga/Documents/personal-cli-projects/todo-list/target/debug/libtodo_list.rlib: /Users/gb3nga/Documents/personal-cli-projects/todo-list/src/lib.rs /Users/gb3nga/Documents/personal-cli-projects/todo-list/src/task.rs /Users/gb3nga/Documents/personal-cli-projects/todo-list/src/todo_list.rs
