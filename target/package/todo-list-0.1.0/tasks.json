@@ -1,0 +1,7 @@
+{
+  "tasks": [
+    { "task": "Worship", "done": false },
+    { "task": "Go to church", "done": true },
+    { "task": "Thriving", "done": false }
+  ]
+}

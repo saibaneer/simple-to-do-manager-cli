@@ -1,0 +1,14 @@
+[package]
+name = "todo-list"
+version = "0.1.0"
+edition = "2021"
+authors = ["Gbenga Ajiboye <gbenga.aj66@gmail.com"]
+license = "MIT"
+repository = "https://github.com/saibaneer/simple-to-do-manager-cli"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.5.3", features = ["cargo"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
